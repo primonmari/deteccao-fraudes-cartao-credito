@@ -1,11 +1,11 @@
 # Detecção de Fraudes em Transações de Cartão de Crédito
 
-Projeto de **Machine Learning** desenvolvido para identificar transações potencialmente fraudulentas por meio da análise de dados históricos e comparação de diferentes modelos de classificação.
+
+Projeto de Machine Learning desenvolvido para identificar transações potencialmente fraudulentas por meio da análise de dados históricos e comparação de diferentes modelos de classificação.
 
 **Projeto desenvolvido por:** Marislene Primon
 
-**Formação:**
-Projeto desenvolvido no módulo **Análise de Dados com Python: Da Preparação à Aplicação com Segurança**, do **Bootcamp Bradesco – GenAI, Dados & Cyber**, realizado pela **DIO (Digital Innovation One)**.
+**Formação:** Projeto desenvolvido no módulo *Análise de Dados com Python: Da Preparação à Aplicação com Segurança*, do *Bootcamp Bradesco – GenAI, Dados & Cyber*, realizado pela DIO (Digital Innovation One), apresentado por Isadora Ferrão — Tech Expert, DIO.
 
 ---
 
